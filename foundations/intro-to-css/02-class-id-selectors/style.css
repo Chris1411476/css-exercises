@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.class1{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.class1.el3{
+    font-size: 24px;
+}
+
+#el2{
+    color: blue;
+    font-size: 36px;
+}
+
+#el4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
